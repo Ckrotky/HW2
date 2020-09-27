@@ -4,8 +4,6 @@ public class ArraySort {
     // создаем и инициализируем новый массив
     private static int[] srcArray = {-1, 12, -3, -4, 125, 0, -1, -25, 3, -45, 5, 5, 10, 10};
 
-    //Test comment for git practice
-
     // метод сортировки массива. На вход принимает исходный массив
     public static void bubbleSort(int[] array) {
         boolean sorted = false;
